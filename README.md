@@ -1,5 +1,8 @@
 # ECS160-HW1 
 ## _(Due date: 1/31)_
+
+![Build Status](../../actions/workflows/maven.yml/badge.svg)
+
 ## Problem 1: Basic analysis of social media posts 
 
 _Learning objectives:_ 
@@ -181,5 +184,3 @@ To make the final submission, commit your code to the Github repo and tag it. In
 
 
 Your submission will be run against different (and larger) JSON files.
-
-![Build Status](../../actions/workflows/maven.yml/badge.svg)
